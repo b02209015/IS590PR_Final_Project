@@ -16,3 +16,4 @@
 ## Visualizations
 ![Image of crimeByHoliday]
 (https://github.com/b02209015/IS590PR_Final_Project/blob/master/byHoliday.jpg)
+<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/byHoliday.jpg">
