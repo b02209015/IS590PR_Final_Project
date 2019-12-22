@@ -8,5 +8,7 @@
 ## Datasets
 - Chicago Crimes Dataset (2001 to present)
   - Source: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+- GHCN Daily Observation Stations Dataset
+  - Source: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/
 - GHCN Daily Climate Data (2010)
   - Source: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/
