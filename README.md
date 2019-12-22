@@ -14,9 +14,9 @@
   - Source: https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/
 
 ## Visualizations
-<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/byHoliday.jpg">
-<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/byWeather.jpg">
-<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/heatTypeLoc.jpg">
+<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/byHoliday.jpg" align="middle">
+<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/byWeather.jpg" align="middle">
+<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/heatTypeLoc.jpg" align="middle">
 
 ## Presentation
 https://www.dropbox.com/s/wysu5pm4t069wgg/Final_Presentation.mov?dl=0
