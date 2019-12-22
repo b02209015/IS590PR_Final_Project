@@ -15,4 +15,8 @@
 
 ## Visualizations
 <img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/byHoliday.jpg">
-<>
+<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/byWeather.jpg">
+<img src="https://github.com/b02209015/IS590PR_Final_Project/blob/master/heatTypeLoc.jpg">
+
+## Presentation
+https://www.dropbox.com/s/wysu5pm4t069wgg/Final_Presentation.mov?dl=0
