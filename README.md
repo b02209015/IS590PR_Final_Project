@@ -1,4 +1,4 @@
-# IS590PR_Final_Project
+# Chicago Crime Analysis
 
 ## Hypothesis
 1) The crime rates are higher during holidays when people tend to gather.
